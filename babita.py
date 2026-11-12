@@ -7,7 +7,7 @@ def profile():
     print("Skills: Python, JavaScript, React, Django")
     print("Education: Bachelor's Degree in Computer Science")
     print("Experience: 3 years in web development")
+    print("Contact:899-123-4567")
 
 if __name__ == "__main__":
     profile()
-    
